@@ -1,0 +1,26 @@
+What hardware you need for full dataset training
+
+For full DeepFashion2 training (191,961 training images), here are practical requirements:
+
+Minimal setup (slow but possible)
+
+    - GPU: ≥ 16GB VRAM (e.g., NVIDIA V100, A100 40GB, RTX 3090, RTX 4090, RTX 6000 Ada)
+
+    - CPU: ≥ 16 cores (Ryzen 9, Intel i9, Xeon)
+
+    - RAM: ≥ 64GB system memory (for dataloading + annotations)
+
+    - Disk: ~500GB SSD (dataset + checkpoints + logs)
+
+Recommended setup (balanced training speed)
+
+    - Multi-GPU: 2× or 4× A100 40GB / H100 80GB
+
+    - CPU: ≥ 32 cores
+
+    - RAM: ≥ 128GB
+
+    - Disk: ≥ 1TB NVMe SSD
+
+
+Training time: still several days depending on batch size + epochs.

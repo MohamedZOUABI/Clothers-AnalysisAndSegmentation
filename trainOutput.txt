@@ -1,0 +1,1015 @@
+Epoch [17], Step [730/1000], Loss: 0.1597
+  Individual losses: loss_classifier: 0.0289, loss_box_reg: 0.0375, loss_mask: 0.0912, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0019
+  GPU Memory: 533.1 MB
+Epoch [17], Step [740/1000], Loss: 0.1284
+  Individual losses: loss_classifier: 0.0207, loss_box_reg: 0.0190, loss_mask: 0.0876, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0011
+  GPU Memory: 533.1 MB
+Epoch [17], Step [750/1000], Loss: 0.1795
+  Individual losses: loss_classifier: 0.0217, loss_box_reg: 0.0270, loss_mask: 0.1293, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0013
+  GPU Memory: 532.3 MB
+Epoch [17], Step [760/1000], Loss: 0.1732
+  Individual losses: loss_classifier: 0.0251, loss_box_reg: 0.0359, loss_mask: 0.1090, loss_objectness: 0.0011, loss_rpn_box_reg: 0.0021
+  GPU Memory: 534.9 MB
+Epoch [17], Step [770/1000], Loss: 0.1026
+  Individual losses: loss_classifier: 0.0114, loss_box_reg: 0.0088, loss_mask: 0.0710, loss_objectness: 0.0017, loss_rpn_box_reg: 0.0097
+  GPU Memory: 535.4 MB
+Epoch [17], Step [780/1000], Loss: 0.1707
+  Individual losses: loss_classifier: 0.0233, loss_box_reg: 0.0399, loss_mask: 0.0953, loss_objectness: 0.0025, loss_rpn_box_reg: 0.0097
+  GPU Memory: 535.8 MB
+Epoch [17], Step [790/1000], Loss: 0.2740
+  Individual losses: loss_classifier: 0.0283, loss_box_reg: 0.0545, loss_mask: 0.1897, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0014
+  GPU Memory: 535.0 MB
+Epoch [17], Step [800/1000], Loss: 0.2534
+  Individual losses: loss_classifier: 0.0865, loss_box_reg: 0.0473, loss_mask: 0.1131, loss_objectness: 0.0026, loss_rpn_box_reg: 0.0040
+  GPU Memory: 534.8 MB
+Epoch [17], Step [810/1000], Loss: 0.1217
+  Individual losses: loss_classifier: 0.0128, loss_box_reg: 0.0130, loss_mask: 0.0926, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0032
+  GPU Memory: 533.2 MB
+Epoch [17], Step [820/1000], Loss: 0.1634
+  Individual losses: loss_classifier: 0.0343, loss_box_reg: 0.0371, loss_mask: 0.0905, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0015
+  GPU Memory: 533.2 MB
+Epoch [17], Step [830/1000], Loss: 0.3581
+  Individual losses: loss_classifier: 0.0841, loss_box_reg: 0.0964, loss_mask: 0.1762, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0011
+  GPU Memory: 534.0 MB
+Epoch [17], Step [840/1000], Loss: 0.1290
+  Individual losses: loss_classifier: 0.0166, loss_box_reg: 0.0243, loss_mask: 0.0870, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0011
+  GPU Memory: 533.1 MB
+Epoch [17], Step [850/1000], Loss: 0.2239
+  Individual losses: loss_classifier: 0.0322, loss_box_reg: 0.0418, loss_mask: 0.1445, loss_objectness: 0.0027, loss_rpn_box_reg: 0.0028
+  GPU Memory: 532.1 MB
+Epoch [17], Step [860/1000], Loss: 0.1804
+  Individual losses: loss_classifier: 0.0236, loss_box_reg: 0.0349, loss_mask: 0.1207, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0011
+  GPU Memory: 533.3 MB
+Epoch [17], Step [870/1000], Loss: 0.1061
+  Individual losses: loss_classifier: 0.0146, loss_box_reg: 0.0108, loss_mask: 0.0710, loss_objectness: 0.0004, loss_rpn_box_reg: 0.0094
+  GPU Memory: 534.7 MB
+Epoch [17], Step [880/1000], Loss: 0.1837
+  Individual losses: loss_classifier: 0.0175, loss_box_reg: 0.0241, loss_mask: 0.1413, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0007
+  GPU Memory: 534.0 MB
+Epoch [17], Step [890/1000], Loss: 0.2126
+  Individual losses: loss_classifier: 0.0393, loss_box_reg: 0.0459, loss_mask: 0.1255, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0017
+  GPU Memory: 535.1 MB
+Epoch [17], Step [900/1000], Loss: 0.0980
+  Individual losses: loss_classifier: 0.0247, loss_box_reg: 0.0099, loss_mask: 0.0558, loss_objectness: 0.0006, loss_rpn_box_reg: 0.0070
+  GPU Memory: 536.1 MB
+Epoch [17], Step [910/1000], Loss: 0.1449
+  Individual losses: loss_classifier: 0.0260, loss_box_reg: 0.0290, loss_mask: 0.0889, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0010
+  GPU Memory: 532.1 MB
+Epoch [17], Step [920/1000], Loss: 0.1059
+  Individual losses: loss_classifier: 0.0177, loss_box_reg: 0.0175, loss_mask: 0.0704, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0003
+  GPU Memory: 532.5 MB
+Epoch [17], Step [930/1000], Loss: 0.2476
+  Individual losses: loss_classifier: 0.0723, loss_box_reg: 0.0544, loss_mask: 0.1157, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0051
+  GPU Memory: 534.8 MB
+Epoch [17], Step [940/1000], Loss: 0.0647
+  Individual losses: loss_classifier: 0.0056, loss_box_reg: 0.0081, loss_mask: 0.0350, loss_objectness: 0.0006, loss_rpn_box_reg: 0.0155
+  GPU Memory: 533.1 MB
+Epoch [17], Step [950/1000], Loss: 0.1557
+  Individual losses: loss_classifier: 0.0132, loss_box_reg: 0.0302, loss_mask: 0.1109, loss_objectness: 0.0004, loss_rpn_box_reg: 0.0010
+  GPU Memory: 533.6 MB
+Epoch [17], Step [960/1000], Loss: 0.2300
+  Individual losses: loss_classifier: 0.0323, loss_box_reg: 0.0515, loss_mask: 0.1406, loss_objectness: 0.0024, loss_rpn_box_reg: 0.0032
+  GPU Memory: 532.1 MB
+Epoch [17], Step [970/1000], Loss: 0.1282
+  Individual losses: loss_classifier: 0.0110, loss_box_reg: 0.0189, loss_mask: 0.0931, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0051
+  GPU Memory: 532.2 MB
+Epoch [17], Step [980/1000], Loss: 0.2066
+  Individual losses: loss_classifier: 0.0401, loss_box_reg: 0.0359, loss_mask: 0.1152, loss_objectness: 0.0030, loss_rpn_box_reg: 0.0125
+  GPU Memory: 533.5 MB
+Epoch [17], Step [990/1000], Loss: 0.1812
+  Individual losses: loss_classifier: 0.0774, loss_box_reg: 0.0195, loss_mask: 0.0815, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0029
+  GPU Memory: 534.0 MB
+
+Epoch [17/20] Summary:
+  Train Loss: 0.1626
+  Val Loss: 0.1589
+  Learning Rate: 0.000010
+  Time: 1674.3s
+--------------------------------------------------
+Epoch [18], Step [0/1000], Loss: 0.1437
+  Individual losses: loss_classifier: 0.0278, loss_box_reg: 0.0229, loss_mask: 0.0910, loss_objectness: 0.0004, loss_rpn_box_reg: 0.0015
+  GPU Memory: 534.0 MB
+Epoch [18], Step [10/1000], Loss: 0.1412
+  Individual losses: loss_classifier: 0.0217, loss_box_reg: 0.0176, loss_mask: 0.1014, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0005
+  GPU Memory: 536.7 MB
+Epoch [18], Step [20/1000], Loss: 0.1323
+  Individual losses: loss_classifier: 0.0118, loss_box_reg: 0.0189, loss_mask: 0.1001, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0015
+  GPU Memory: 537.4 MB
+Epoch [18], Step [30/1000], Loss: 0.0871
+  Individual losses: loss_classifier: 0.0105, loss_box_reg: 0.0077, loss_mask: 0.0482, loss_objectness: 0.0015, loss_rpn_box_reg: 0.0192
+  GPU Memory: 533.1 MB
+Epoch [18], Step [40/1000], Loss: 0.1298
+  Individual losses: loss_classifier: 0.0196, loss_box_reg: 0.0239, loss_mask: 0.0837, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0026
+  GPU Memory: 538.5 MB
+Epoch [18], Step [50/1000], Loss: 0.2558
+  Individual losses: loss_classifier: 0.0345, loss_box_reg: 0.0441, loss_mask: 0.1739, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0032
+  GPU Memory: 534.6 MB
+Epoch [18], Step [60/1000], Loss: 0.1148
+  Individual losses: loss_classifier: 0.0062, loss_box_reg: 0.0139, loss_mask: 0.0921, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0024
+  GPU Memory: 538.0 MB
+Epoch [18], Step [70/1000], Loss: 0.1300
+  Individual losses: loss_classifier: 0.0116, loss_box_reg: 0.0148, loss_mask: 0.0878, loss_objectness: 0.0029, loss_rpn_box_reg: 0.0130
+  GPU Memory: 536.2 MB
+Epoch [18], Step [80/1000], Loss: 0.1213
+  Individual losses: loss_classifier: 0.0115, loss_box_reg: 0.0138, loss_mask: 0.0825, loss_objectness: 0.0070, loss_rpn_box_reg: 0.0065
+  GPU Memory: 535.2 MB
+Epoch [18], Step [90/1000], Loss: 0.0796
+  Individual losses: loss_classifier: 0.0046, loss_box_reg: 0.0049, loss_mask: 0.0544, loss_objectness: 0.0014, loss_rpn_box_reg: 0.0143
+  GPU Memory: 533.8 MB
+Epoch [18], Step [100/1000], Loss: 0.3039
+  Individual losses: loss_classifier: 0.0467, loss_box_reg: 0.0686, loss_mask: 0.1670, loss_objectness: 0.0007, loss_rpn_box_reg: 0.0209
+  GPU Memory: 534.3 MB
+Epoch [18], Step [110/1000], Loss: 0.1927
+  Individual losses: loss_classifier: 0.0326, loss_box_reg: 0.0351, loss_mask: 0.1233, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0016
+  GPU Memory: 533.1 MB
+Epoch [18], Step [120/1000], Loss: 0.1055
+  Individual losses: loss_classifier: 0.0149, loss_box_reg: 0.0086, loss_mask: 0.0767, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0051
+  GPU Memory: 532.5 MB
+Epoch [18], Step [130/1000], Loss: 0.1485
+  Individual losses: loss_classifier: 0.0204, loss_box_reg: 0.0332, loss_mask: 0.0934, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0015
+  GPU Memory: 534.7 MB
+Epoch [18], Step [140/1000], Loss: 0.1523
+  Individual losses: loss_classifier: 0.0118, loss_box_reg: 0.0119, loss_mask: 0.1130, loss_objectness: 0.0004, loss_rpn_box_reg: 0.0153
+  GPU Memory: 534.5 MB
+Epoch [18], Step [150/1000], Loss: 0.0975
+  Individual losses: loss_classifier: 0.0050, loss_box_reg: 0.0159, loss_mask: 0.0759, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0007
+  GPU Memory: 534.4 MB
+Epoch [18], Step [160/1000], Loss: 0.1615
+  Individual losses: loss_classifier: 0.0565, loss_box_reg: 0.0195, loss_mask: 0.0731, loss_objectness: 0.0005, loss_rpn_box_reg: 0.0118
+  GPU Memory: 538.8 MB
+Epoch [18], Step [170/1000], Loss: 0.1429
+  Individual losses: loss_classifier: 0.0107, loss_box_reg: 0.0134, loss_mask: 0.1161, loss_objectness: 0.0017, loss_rpn_box_reg: 0.0012
+  GPU Memory: 536.2 MB
+Epoch [18], Step [180/1000], Loss: 0.1230
+  Individual losses: loss_classifier: 0.0268, loss_box_reg: 0.0153, loss_mask: 0.0792, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0016
+  GPU Memory: 533.8 MB
+Epoch [18], Step [190/1000], Loss: 0.1342
+  Individual losses: loss_classifier: 0.0123, loss_box_reg: 0.0390, loss_mask: 0.0805, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0023
+  GPU Memory: 535.9 MB
+Epoch [18], Step [200/1000], Loss: 0.1378
+  Individual losses: loss_classifier: 0.0147, loss_box_reg: 0.0238, loss_mask: 0.0977, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0015
+  GPU Memory: 533.8 MB
+Epoch [18], Step [210/1000], Loss: 0.1592
+  Individual losses: loss_classifier: 0.0246, loss_box_reg: 0.0355, loss_mask: 0.0984, loss_objectness: 0.0004, loss_rpn_box_reg: 0.0003
+  GPU Memory: 537.5 MB
+Epoch [18], Step [220/1000], Loss: 0.1127
+  Individual losses: loss_classifier: 0.0118, loss_box_reg: 0.0274, loss_mask: 0.0715, loss_objectness: 0.0006, loss_rpn_box_reg: 0.0014
+  GPU Memory: 532.0 MB
+Epoch [18], Step [230/1000], Loss: 0.0869
+  Individual losses: loss_classifier: 0.0019, loss_box_reg: 0.0138, loss_mask: 0.0599, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0111
+  GPU Memory: 533.8 MB
+Epoch [18], Step [240/1000], Loss: 0.1666
+  Individual losses: loss_classifier: 0.0188, loss_box_reg: 0.0232, loss_mask: 0.1241, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0005
+  GPU Memory: 535.7 MB
+Epoch [18], Step [250/1000], Loss: 0.1109
+  Individual losses: loss_classifier: 0.0202, loss_box_reg: 0.0113, loss_mask: 0.0668, loss_objectness: 0.0005, loss_rpn_box_reg: 0.0121
+  GPU Memory: 533.3 MB
+Epoch [18], Step [260/1000], Loss: 0.1211
+  Individual losses: loss_classifier: 0.0075, loss_box_reg: 0.0151, loss_mask: 0.0941, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0043
+  GPU Memory: 533.8 MB
+Epoch [18], Step [270/1000], Loss: 0.1213
+  Individual losses: loss_classifier: 0.0141, loss_box_reg: 0.0089, loss_mask: 0.0809, loss_objectness: 0.0003, loss_rpn_box_reg: 0.0170
+  GPU Memory: 532.7 MB
+Epoch [18], Step [280/1000], Loss: 0.1247
+  Individual losses: loss_classifier: 0.0169, loss_box_reg: 0.0149, loss_mask: 0.0687, loss_objectness: 0.0078, loss_rpn_box_reg: 0.0164
+  GPU Memory: 534.0 MB
+Epoch [18], Step [290/1000], Loss: 0.1432
+  Individual losses: loss_classifier: 0.0210, loss_box_reg: 0.0220, loss_mask: 0.0991, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0010
+  GPU Memory: 535.8 MB
+Epoch [18], Step [300/1000], Loss: 0.1219
+  Individual losses: loss_classifier: 0.0170, loss_box_reg: 0.0242, loss_mask: 0.0745, loss_objectness: 0.0016, loss_rpn_box_reg: 0.0046
+  GPU Memory: 534.6 MB
+Epoch [18], Step [310/1000], Loss: 0.1567
+  Individual losses: loss_classifier: 0.0203, loss_box_reg: 0.0301, loss_mask: 0.1054, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0010
+  GPU Memory: 537.3 MB
+Epoch [18], Step [320/1000], Loss: 0.1227
+  Individual losses: loss_classifier: 0.0137, loss_box_reg: 0.0131, loss_mask: 0.0927, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0031
+  GPU Memory: 535.1 MB
+Epoch [18], Step [330/1000], Loss: 0.1041
+  Individual losses: loss_classifier: 0.0116, loss_box_reg: 0.0132, loss_mask: 0.0774, loss_objectness: 0.0005, loss_rpn_box_reg: 0.0014
+  GPU Memory: 531.8 MB
+Epoch [18], Step [340/1000], Loss: 0.1340
+  Individual losses: loss_classifier: 0.0239, loss_box_reg: 0.0090, loss_mask: 0.0996, loss_objectness: 0.0007, loss_rpn_box_reg: 0.0008
+  GPU Memory: 532.8 MB
+Epoch [18], Step [350/1000], Loss: 0.1562
+  Individual losses: loss_classifier: 0.0228, loss_box_reg: 0.0273, loss_mask: 0.1045, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0015
+  GPU Memory: 535.0 MB
+Epoch [18], Step [360/1000], Loss: 0.1112
+  Individual losses: loss_classifier: 0.0125, loss_box_reg: 0.0174, loss_mask: 0.0712, loss_objectness: 0.0032, loss_rpn_box_reg: 0.0069
+  GPU Memory: 534.1 MB
+Epoch [18], Step [370/1000], Loss: 0.1501
+  Individual losses: loss_classifier: 0.0173, loss_box_reg: 0.0267, loss_mask: 0.1039, loss_objectness: 0.0004, loss_rpn_box_reg: 0.0018
+  GPU Memory: 535.6 MB
+Epoch [18], Step [380/1000], Loss: 0.2014
+  Individual losses: loss_classifier: 0.1001, loss_box_reg: 0.0186, loss_mask: 0.0690, loss_objectness: 0.0004, loss_rpn_box_reg: 0.0134
+  GPU Memory: 535.7 MB
+Epoch [18], Step [390/1000], Loss: 0.2434
+  Individual losses: loss_classifier: 0.0562, loss_box_reg: 0.0471, loss_mask: 0.1389, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0009
+  GPU Memory: 535.2 MB
+Epoch [18], Step [400/1000], Loss: 0.2195
+  Individual losses: loss_classifier: 0.0330, loss_box_reg: 0.0554, loss_mask: 0.1280, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0031
+  GPU Memory: 533.0 MB
+Epoch [18], Step [410/1000], Loss: 0.1032
+  Individual losses: loss_classifier: 0.0143, loss_box_reg: 0.0145, loss_mask: 0.0741, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0002
+  GPU Memory: 534.3 MB
+Epoch [18], Step [420/1000], Loss: 0.1249
+  Individual losses: loss_classifier: 0.0067, loss_box_reg: 0.0186, loss_mask: 0.0802, loss_objectness: 0.0003, loss_rpn_box_reg: 0.0192
+  GPU Memory: 533.8 MB
+Epoch [18], Step [430/1000], Loss: 0.2009
+  Individual losses: loss_classifier: 0.0370, loss_box_reg: 0.0359, loss_mask: 0.1150, loss_objectness: 0.0006, loss_rpn_box_reg: 0.0124
+  GPU Memory: 537.3 MB
+Epoch [18], Step [440/1000], Loss: 0.1753
+  Individual losses: loss_classifier: 0.0265, loss_box_reg: 0.0352, loss_mask: 0.1108, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0029
+  GPU Memory: 536.9 MB
+Epoch [18], Step [450/1000], Loss: 0.1341
+  Individual losses: loss_classifier: 0.0308, loss_box_reg: 0.0254, loss_mask: 0.0772, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0006
+  GPU Memory: 534.2 MB
+Epoch [18], Step [460/1000], Loss: 0.1481
+  Individual losses: loss_classifier: 0.0364, loss_box_reg: 0.0235, loss_mask: 0.0861, loss_objectness: 0.0008, loss_rpn_box_reg: 0.0013
+  GPU Memory: 536.8 MB
+Epoch [18], Step [470/1000], Loss: 0.1983
+  Individual losses: loss_classifier: 0.0250, loss_box_reg: 0.0468, loss_mask: 0.1250, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0013
+  GPU Memory: 532.9 MB
+Epoch [18], Step [480/1000], Loss: 0.3848
+  Individual losses: loss_classifier: 0.0981, loss_box_reg: 0.0771, loss_mask: 0.1744, loss_objectness: 0.0116, loss_rpn_box_reg: 0.0237
+  GPU Memory: 535.9 MB
+Epoch [18], Step [490/1000], Loss: 0.1844
+  Individual losses: loss_classifier: 0.0425, loss_box_reg: 0.0302, loss_mask: 0.1089, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0027
+  GPU Memory: 536.2 MB
+Epoch [18], Step [500/1000], Loss: 0.2020
+  Individual losses: loss_classifier: 0.0217, loss_box_reg: 0.0370, loss_mask: 0.1423, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0009
+  GPU Memory: 534.1 MB
+Epoch [18], Step [510/1000], Loss: 0.2358
+  Individual losses: loss_classifier: 0.0479, loss_box_reg: 0.0651, loss_mask: 0.1192, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0036
+  GPU Memory: 534.0 MB
+Epoch [18], Step [520/1000], Loss: 0.2139
+  Individual losses: loss_classifier: 0.0284, loss_box_reg: 0.0361, loss_mask: 0.1379, loss_objectness: 0.0005, loss_rpn_box_reg: 0.0110
+  GPU Memory: 535.2 MB
+Epoch [18], Step [530/1000], Loss: 0.1445
+  Individual losses: loss_classifier: 0.0179, loss_box_reg: 0.0352, loss_mask: 0.0890, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0024
+  GPU Memory: 537.9 MB
+Epoch [18], Step [540/1000], Loss: 0.1330
+  Individual losses: loss_classifier: 0.0104, loss_box_reg: 0.0236, loss_mask: 0.0973, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0017
+  GPU Memory: 534.2 MB
+Epoch [18], Step [550/1000], Loss: 0.1061
+  Individual losses: loss_classifier: 0.0110, loss_box_reg: 0.0260, loss_mask: 0.0681, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0010
+  GPU Memory: 535.1 MB
+Epoch [18], Step [560/1000], Loss: 0.2632
+  Individual losses: loss_classifier: 0.0594, loss_box_reg: 0.0194, loss_mask: 0.1576, loss_objectness: 0.0053, loss_rpn_box_reg: 0.0214
+  GPU Memory: 536.7 MB
+Epoch [18], Step [570/1000], Loss: 0.2159
+  Individual losses: loss_classifier: 0.0341, loss_box_reg: 0.0705, loss_mask: 0.1084, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0029
+  GPU Memory: 533.5 MB
+Epoch [18], Step [580/1000], Loss: 0.1205
+  Individual losses: loss_classifier: 0.0089, loss_box_reg: 0.0120, loss_mask: 0.0979, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0018
+  GPU Memory: 536.3 MB
+Epoch [18], Step [590/1000], Loss: 0.2158
+  Individual losses: loss_classifier: 0.0741, loss_box_reg: 0.0326, loss_mask: 0.0966, loss_objectness: 0.0021, loss_rpn_box_reg: 0.0104
+  GPU Memory: 535.8 MB
+Epoch [18], Step [600/1000], Loss: 0.2239
+  Individual losses: loss_classifier: 0.0353, loss_box_reg: 0.0453, loss_mask: 0.1163, loss_objectness: 0.0021, loss_rpn_box_reg: 0.0250
+  GPU Memory: 537.3 MB
+Epoch [18], Step [610/1000], Loss: 0.1291
+  Individual losses: loss_classifier: 0.0122, loss_box_reg: 0.0268, loss_mask: 0.0871, loss_objectness: 0.0005, loss_rpn_box_reg: 0.0026
+  GPU Memory: 534.4 MB
+Epoch [18], Step [620/1000], Loss: 0.2188
+  Individual losses: loss_classifier: 0.0295, loss_box_reg: 0.0426, loss_mask: 0.1417, loss_objectness: 0.0013, loss_rpn_box_reg: 0.0038
+  GPU Memory: 534.7 MB
+Epoch [18], Step [630/1000], Loss: 0.1375
+  Individual losses: loss_classifier: 0.0144, loss_box_reg: 0.0216, loss_mask: 0.1011, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0003
+  GPU Memory: 535.2 MB
+Epoch [18], Step [640/1000], Loss: 0.1331
+  Individual losses: loss_classifier: 0.0099, loss_box_reg: 0.0223, loss_mask: 0.0926, loss_objectness: 0.0039, loss_rpn_box_reg: 0.0045
+  GPU Memory: 536.4 MB
+Epoch [18], Step [650/1000], Loss: 0.1866
+  Individual losses: loss_classifier: 0.0377, loss_box_reg: 0.0349, loss_mask: 0.1125, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0015
+  GPU Memory: 534.2 MB
+Epoch [18], Step [660/1000], Loss: 0.1105
+  Individual losses: loss_classifier: 0.0138, loss_box_reg: 0.0136, loss_mask: 0.0819, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0012
+  GPU Memory: 534.7 MB
+Epoch [18], Step [670/1000], Loss: 0.1481
+  Individual losses: loss_classifier: 0.0171, loss_box_reg: 0.0381, loss_mask: 0.0909, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0020
+  GPU Memory: 535.3 MB
+Epoch [18], Step [680/1000], Loss: 0.1775
+  Individual losses: loss_classifier: 0.0204, loss_box_reg: 0.0338, loss_mask: 0.1220, loss_objectness: 0.0003, loss_rpn_box_reg: 0.0011
+  GPU Memory: 534.1 MB
+Epoch [18], Step [690/1000], Loss: 0.1243
+  Individual losses: loss_classifier: 0.0198, loss_box_reg: 0.0250, loss_mask: 0.0771, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0022
+  GPU Memory: 533.1 MB
+Epoch [18], Step [700/1000], Loss: 0.1714
+  Individual losses: loss_classifier: 0.0252, loss_box_reg: 0.0403, loss_mask: 0.0862, loss_objectness: 0.0003, loss_rpn_box_reg: 0.0194
+  GPU Memory: 534.9 MB
+Epoch [18], Step [710/1000], Loss: 0.0793
+  Individual losses: loss_classifier: 0.0068, loss_box_reg: 0.0159, loss_mask: 0.0413, loss_objectness: 0.0004, loss_rpn_box_reg: 0.0149
+  GPU Memory: 532.2 MB
+Epoch [18], Step [720/1000], Loss: 0.2025
+  Individual losses: loss_classifier: 0.0216, loss_box_reg: 0.0314, loss_mask: 0.1489, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0006
+  GPU Memory: 532.4 MB
+Epoch [18], Step [730/1000], Loss: 0.2544
+  Individual losses: loss_classifier: 0.0600, loss_box_reg: 0.0471, loss_mask: 0.1355, loss_objectness: 0.0004, loss_rpn_box_reg: 0.0113
+  GPU Memory: 533.9 MB
+Epoch [18], Step [740/1000], Loss: 0.0881
+  Individual losses: loss_classifier: 0.0054, loss_box_reg: 0.0117, loss_mask: 0.0488, loss_objectness: 0.0009, loss_rpn_box_reg: 0.0212
+  GPU Memory: 536.9 MB
+Epoch [18], Step [750/1000], Loss: 0.1480
+  Individual losses: loss_classifier: 0.0261, loss_box_reg: 0.0272, loss_mask: 0.0940, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0007
+  GPU Memory: 535.4 MB
+Epoch [18], Step [760/1000], Loss: 0.1154
+  Individual losses: loss_classifier: 0.0062, loss_box_reg: 0.0166, loss_mask: 0.0572, loss_objectness: 0.0004, loss_rpn_box_reg: 0.0349
+  GPU Memory: 535.5 MB
+Epoch [18], Step [770/1000], Loss: 0.1194
+  Individual losses: loss_classifier: 0.0231, loss_box_reg: 0.0193, loss_mask: 0.0682, loss_objectness: 0.0070, loss_rpn_box_reg: 0.0018
+  GPU Memory: 536.0 MB
+Epoch [18], Step [780/1000], Loss: 0.0961
+  Individual losses: loss_classifier: 0.0227, loss_box_reg: 0.0133, loss_mask: 0.0576, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0025
+  GPU Memory: 532.2 MB
+Epoch [18], Step [790/1000], Loss: 0.1954
+  Individual losses: loss_classifier: 0.0315, loss_box_reg: 0.0491, loss_mask: 0.1142, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0006
+  GPU Memory: 536.2 MB
+Epoch [18], Step [800/1000], Loss: 0.1761
+  Individual losses: loss_classifier: 0.0165, loss_box_reg: 0.0176, loss_mask: 0.1415, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0004
+  GPU Memory: 536.2 MB
+Epoch [18], Step [810/1000], Loss: 0.0984
+  Individual losses: loss_classifier: 0.0062, loss_box_reg: 0.0071, loss_mask: 0.0815, loss_objectness: 0.0006, loss_rpn_box_reg: 0.0031
+  GPU Memory: 535.8 MB
+Epoch [18], Step [820/1000], Loss: 0.2737
+  Individual losses: loss_classifier: 0.0296, loss_box_reg: 0.0176, loss_mask: 0.2014, loss_objectness: 0.0006, loss_rpn_box_reg: 0.0244
+  GPU Memory: 532.3 MB
+Epoch [18], Step [830/1000], Loss: 0.1000
+  Individual losses: loss_classifier: 0.0033, loss_box_reg: 0.0086, loss_mask: 0.0704, loss_objectness: 0.0012, loss_rpn_box_reg: 0.0166
+  GPU Memory: 537.6 MB
+Epoch [18], Step [840/1000], Loss: 0.1705
+  Individual losses: loss_classifier: 0.0265, loss_box_reg: 0.0339, loss_mask: 0.1095, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0006
+  GPU Memory: 534.2 MB
+Epoch [18], Step [850/1000], Loss: 0.1209
+  Individual losses: loss_classifier: 0.0129, loss_box_reg: 0.0177, loss_mask: 0.0867, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0035
+  GPU Memory: 534.0 MB
+Epoch [18], Step [860/1000], Loss: 0.1953
+  Individual losses: loss_classifier: 0.0404, loss_box_reg: 0.0413, loss_mask: 0.1070, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0065
+  GPU Memory: 535.1 MB
+Epoch [18], Step [870/1000], Loss: 0.1623
+  Individual losses: loss_classifier: 0.0205, loss_box_reg: 0.0217, loss_mask: 0.1156, loss_objectness: 0.0011, loss_rpn_box_reg: 0.0034
+  GPU Memory: 536.0 MB
+Epoch [18], Step [880/1000], Loss: 0.1295
+  Individual losses: loss_classifier: 0.0179, loss_box_reg: 0.0235, loss_mask: 0.0870, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0010
+  GPU Memory: 533.2 MB
+Epoch [18], Step [890/1000], Loss: 0.2127
+  Individual losses: loss_classifier: 0.0143, loss_box_reg: 0.0487, loss_mask: 0.1464, loss_objectness: 0.0004, loss_rpn_box_reg: 0.0028
+  GPU Memory: 535.8 MB
+Epoch [18], Step [900/1000], Loss: 0.2219
+  Individual losses: loss_classifier: 0.0268, loss_box_reg: 0.0391, loss_mask: 0.1511, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0047
+  GPU Memory: 533.9 MB
+Epoch [18], Step [910/1000], Loss: 0.1166
+  Individual losses: loss_classifier: 0.0109, loss_box_reg: 0.0239, loss_mask: 0.0811, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0005
+  GPU Memory: 534.7 MB
+Epoch [18], Step [920/1000], Loss: 0.1710
+  Individual losses: loss_classifier: 0.0359, loss_box_reg: 0.0249, loss_mask: 0.1075, loss_objectness: 0.0004, loss_rpn_box_reg: 0.0023
+  GPU Memory: 533.3 MB
+Epoch [18], Step [930/1000], Loss: 0.2742
+  Individual losses: loss_classifier: 0.0373, loss_box_reg: 0.0446, loss_mask: 0.1772, loss_objectness: 0.0027, loss_rpn_box_reg: 0.0123
+  GPU Memory: 535.4 MB
+Epoch [18], Step [940/1000], Loss: 0.2039
+  Individual losses: loss_classifier: 0.0315, loss_box_reg: 0.0453, loss_mask: 0.1253, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0017
+  GPU Memory: 535.1 MB
+Epoch [18], Step [950/1000], Loss: 0.2215
+  Individual losses: loss_classifier: 0.0501, loss_box_reg: 0.0369, loss_mask: 0.1320, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0024
+  GPU Memory: 534.7 MB
+Epoch [18], Step [960/1000], Loss: 0.1922
+  Individual losses: loss_classifier: 0.0254, loss_box_reg: 0.0365, loss_mask: 0.1268, loss_objectness: 0.0011, loss_rpn_box_reg: 0.0024
+  GPU Memory: 535.2 MB
+Epoch [18], Step [970/1000], Loss: 0.1609
+  Individual losses: loss_classifier: 0.0184, loss_box_reg: 0.0349, loss_mask: 0.1039, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0035
+  GPU Memory: 534.1 MB
+Epoch [18], Step [980/1000], Loss: 0.2675
+  Individual losses: loss_classifier: 0.0163, loss_box_reg: 0.0513, loss_mask: 0.1805, loss_objectness: 0.0006, loss_rpn_box_reg: 0.0187
+  GPU Memory: 537.0 MB
+Epoch [18], Step [990/1000], Loss: 0.1414
+  Individual losses: loss_classifier: 0.0183, loss_box_reg: 0.0136, loss_mask: 0.0705, loss_objectness: 0.0065, loss_rpn_box_reg: 0.0325
+  GPU Memory: 533.1 MB
+
+Epoch [18/20] Summary:
+  Train Loss: 0.1622
+  Val Loss: 0.1589
+  Learning Rate: 0.000010
+  Time: 1707.2s
+--------------------------------------------------
+Epoch [19], Step [0/1000], Loss: 0.2020
+  Individual losses: loss_classifier: 0.0363, loss_box_reg: 0.0357, loss_mask: 0.1196, loss_objectness: 0.0009, loss_rpn_box_reg: 0.0095
+  GPU Memory: 536.2 MB
+Epoch [19], Step [10/1000], Loss: 0.0959
+  Individual losses: loss_classifier: 0.0130, loss_box_reg: 0.0086, loss_mask: 0.0668, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0073
+  GPU Memory: 533.4 MB
+Epoch [19], Step [20/1000], Loss: 0.1904
+  Individual losses: loss_classifier: 0.0680, loss_box_reg: 0.0216, loss_mask: 0.0927, loss_objectness: 0.0009, loss_rpn_box_reg: 0.0072
+  GPU Memory: 534.5 MB
+Epoch [19], Step [30/1000], Loss: 0.1872
+  Individual losses: loss_classifier: 0.0169, loss_box_reg: 0.0324, loss_mask: 0.1134, loss_objectness: 0.0224, loss_rpn_box_reg: 0.0021
+  GPU Memory: 534.4 MB
+Epoch [19], Step [40/1000], Loss: 0.2269
+  Individual losses: loss_classifier: 0.0399, loss_box_reg: 0.0638, loss_mask: 0.1196, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0037
+  GPU Memory: 533.2 MB
+Epoch [19], Step [50/1000], Loss: 0.0889
+  Individual losses: loss_classifier: 0.0084, loss_box_reg: 0.0149, loss_mask: 0.0638, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0017
+  GPU Memory: 533.3 MB
+Epoch [19], Step [60/1000], Loss: 0.2026
+  Individual losses: loss_classifier: 0.0290, loss_box_reg: 0.0455, loss_mask: 0.1261, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0019
+  GPU Memory: 532.2 MB
+Epoch [19], Step [70/1000], Loss: 0.2114
+  Individual losses: loss_classifier: 0.0181, loss_box_reg: 0.0418, loss_mask: 0.1316, loss_objectness: 0.0005, loss_rpn_box_reg: 0.0193
+  GPU Memory: 532.8 MB
+Epoch [19], Step [80/1000], Loss: 0.0889
+  Individual losses: loss_classifier: 0.0047, loss_box_reg: 0.0127, loss_mask: 0.0707, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0008
+  GPU Memory: 533.4 MB
+Epoch [19], Step [90/1000], Loss: 0.1216
+  Individual losses: loss_classifier: 0.0129, loss_box_reg: 0.0178, loss_mask: 0.0891, loss_objectness: 0.0012, loss_rpn_box_reg: 0.0006
+  GPU Memory: 533.4 MB
+Epoch [19], Step [100/1000], Loss: 0.1668
+  Individual losses: loss_classifier: 0.0332, loss_box_reg: 0.0291, loss_mask: 0.1033, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0013
+  GPU Memory: 532.3 MB
+Epoch [19], Step [110/1000], Loss: 0.1493
+  Individual losses: loss_classifier: 0.0257, loss_box_reg: 0.0216, loss_mask: 0.1009, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0010
+  GPU Memory: 533.3 MB
+Epoch [19], Step [120/1000], Loss: 0.0917
+  Individual losses: loss_classifier: 0.0101, loss_box_reg: 0.0147, loss_mask: 0.0658, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0010
+  GPU Memory: 534.5 MB
+Epoch [19], Step [130/1000], Loss: 0.2001
+  Individual losses: loss_classifier: 0.0352, loss_box_reg: 0.0343, loss_mask: 0.1151, loss_objectness: 0.0029, loss_rpn_box_reg: 0.0125
+  GPU Memory: 533.8 MB
+Epoch [19], Step [140/1000], Loss: 0.1690
+  Individual losses: loss_classifier: 0.0254, loss_box_reg: 0.0173, loss_mask: 0.1254, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0008
+  GPU Memory: 533.4 MB
+Epoch [19], Step [150/1000], Loss: 0.1264
+  Individual losses: loss_classifier: 0.0170, loss_box_reg: 0.0103, loss_mask: 0.0953, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0037
+  GPU Memory: 532.7 MB
+Epoch [19], Step [160/1000], Loss: 0.2074
+  Individual losses: loss_classifier: 0.0339, loss_box_reg: 0.0462, loss_mask: 0.1259, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0013
+  GPU Memory: 532.3 MB
+Epoch [19], Step [170/1000], Loss: 0.1298
+  Individual losses: loss_classifier: 0.0183, loss_box_reg: 0.0215, loss_mask: 0.0880, loss_objectness: 0.0007, loss_rpn_box_reg: 0.0013
+  GPU Memory: 532.3 MB
+Epoch [19], Step [180/1000], Loss: 0.1090
+  Individual losses: loss_classifier: 0.0150, loss_box_reg: 0.0227, loss_mask: 0.0692, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0018
+  GPU Memory: 534.4 MB
+Epoch [19], Step [190/1000], Loss: 0.1380
+  Individual losses: loss_classifier: 0.0172, loss_box_reg: 0.0316, loss_mask: 0.0880, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0012
+  GPU Memory: 534.9 MB
+Epoch [19], Step [200/1000], Loss: 0.2335
+  Individual losses: loss_classifier: 0.0267, loss_box_reg: 0.0483, loss_mask: 0.1457, loss_objectness: 0.0050, loss_rpn_box_reg: 0.0078
+  GPU Memory: 533.0 MB
+Epoch [19], Step [210/1000], Loss: 0.1008
+  Individual losses: loss_classifier: 0.0074, loss_box_reg: 0.0134, loss_mask: 0.0786, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0012
+  GPU Memory: 533.0 MB
+Epoch [19], Step [220/1000], Loss: 0.1606
+  Individual losses: loss_classifier: 0.0252, loss_box_reg: 0.0357, loss_mask: 0.0993, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0003
+  GPU Memory: 532.3 MB
+Epoch [19], Step [230/1000], Loss: 0.1550
+  Individual losses: loss_classifier: 0.0192, loss_box_reg: 0.0185, loss_mask: 0.1146, loss_objectness: 0.0008, loss_rpn_box_reg: 0.0018
+  GPU Memory: 535.4 MB
+Epoch [19], Step [240/1000], Loss: 0.1686
+  Individual losses: loss_classifier: 0.0263, loss_box_reg: 0.0372, loss_mask: 0.0852, loss_objectness: 0.0005, loss_rpn_box_reg: 0.0194
+  GPU Memory: 534.6 MB
+Epoch [19], Step [250/1000], Loss: 0.1891
+  Individual losses: loss_classifier: 0.0282, loss_box_reg: 0.0476, loss_mask: 0.1073, loss_objectness: 0.0004, loss_rpn_box_reg: 0.0056
+  GPU Memory: 533.0 MB
+Epoch [19], Step [260/1000], Loss: 0.1642
+  Individual losses: loss_classifier: 0.0187, loss_box_reg: 0.0258, loss_mask: 0.1189, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0007
+  GPU Memory: 534.6 MB
+Epoch [19], Step [270/1000], Loss: 0.1356
+  Individual losses: loss_classifier: 0.0119, loss_box_reg: 0.0216, loss_mask: 0.1016, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0003
+  GPU Memory: 534.6 MB
+Epoch [19], Step [280/1000], Loss: 0.1583
+  Individual losses: loss_classifier: 0.0109, loss_box_reg: 0.0149, loss_mask: 0.1322, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0004
+  GPU Memory: 535.7 MB
+Epoch [19], Step [290/1000], Loss: 0.1613
+  Individual losses: loss_classifier: 0.0207, loss_box_reg: 0.0254, loss_mask: 0.1141, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0011
+  GPU Memory: 534.8 MB
+Epoch [19], Step [300/1000], Loss: 0.1572
+  Individual losses: loss_classifier: 0.0571, loss_box_reg: 0.0180, loss_mask: 0.0698, loss_objectness: 0.0005, loss_rpn_box_reg: 0.0119
+  GPU Memory: 533.1 MB
+Epoch [19], Step [310/1000], Loss: 0.1217
+  Individual losses: loss_classifier: 0.0109, loss_box_reg: 0.0182, loss_mask: 0.0904, loss_objectness: 0.0003, loss_rpn_box_reg: 0.0019
+  GPU Memory: 534.3 MB
+Epoch [19], Step [320/1000], Loss: 0.2903
+  Individual losses: loss_classifier: 0.0632, loss_box_reg: 0.0580, loss_mask: 0.1436, loss_objectness: 0.0009, loss_rpn_box_reg: 0.0246
+  GPU Memory: 533.0 MB
+Epoch [19], Step [330/1000], Loss: 0.1619
+  Individual losses: loss_classifier: 0.0161, loss_box_reg: 0.0306, loss_mask: 0.1120, loss_objectness: 0.0011, loss_rpn_box_reg: 0.0021
+  GPU Memory: 533.0 MB
+Epoch [19], Step [340/1000], Loss: 0.2067
+  Individual losses: loss_classifier: 0.0147, loss_box_reg: 0.0371, loss_mask: 0.1500, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0047
+  GPU Memory: 532.3 MB
+Epoch [19], Step [350/1000], Loss: 0.1164
+  Individual losses: loss_classifier: 0.0034, loss_box_reg: 0.0148, loss_mask: 0.0938, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0043
+  GPU Memory: 533.7 MB
+Epoch [19], Step [360/1000], Loss: 0.2209
+  Individual losses: loss_classifier: 0.0455, loss_box_reg: 0.0484, loss_mask: 0.1256, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0013
+  GPU Memory: 532.8 MB
+Epoch [19], Step [370/1000], Loss: 0.3873
+  Individual losses: loss_classifier: 0.0710, loss_box_reg: 0.0880, loss_mask: 0.2129, loss_objectness: 0.0023, loss_rpn_box_reg: 0.0132
+  GPU Memory: 534.3 MB
+Epoch [19], Step [380/1000], Loss: 0.1269
+  Individual losses: loss_classifier: 0.0091, loss_box_reg: 0.0118, loss_mask: 0.1000, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0058
+  GPU Memory: 533.5 MB
+Epoch [19], Step [390/1000], Loss: 0.1774
+  Individual losses: loss_classifier: 0.0206, loss_box_reg: 0.0358, loss_mask: 0.1200, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0011
+  GPU Memory: 533.8 MB
+Epoch [19], Step [400/1000], Loss: 0.1058
+  Individual losses: loss_classifier: 0.0094, loss_box_reg: 0.0222, loss_mask: 0.0680, loss_objectness: 0.0059, loss_rpn_box_reg: 0.0003
+  GPU Memory: 537.9 MB
+Epoch [19], Step [410/1000], Loss: 0.1596
+  Individual losses: loss_classifier: 0.0128, loss_box_reg: 0.0234, loss_mask: 0.1201, loss_objectness: 0.0003, loss_rpn_box_reg: 0.0031
+  GPU Memory: 534.6 MB
+Epoch [19], Step [420/1000], Loss: 0.2314
+  Individual losses: loss_classifier: 0.0309, loss_box_reg: 0.0384, loss_mask: 0.1547, loss_objectness: 0.0055, loss_rpn_box_reg: 0.0019
+  GPU Memory: 533.9 MB
+Epoch [19], Step [430/1000], Loss: 0.1437
+  Individual losses: loss_classifier: 0.0038, loss_box_reg: 0.0173, loss_mask: 0.1065, loss_objectness: 0.0021, loss_rpn_box_reg: 0.0140
+  GPU Memory: 534.8 MB
+Epoch [19], Step [440/1000], Loss: 0.1907
+  Individual losses: loss_classifier: 0.0702, loss_box_reg: 0.0054, loss_mask: 0.0882, loss_objectness: 0.0003, loss_rpn_box_reg: 0.0266
+  GPU Memory: 533.3 MB
+Epoch [19], Step [450/1000], Loss: 0.1025
+  Individual losses: loss_classifier: 0.0082, loss_box_reg: 0.0100, loss_mask: 0.0681, loss_objectness: 0.0007, loss_rpn_box_reg: 0.0155
+  GPU Memory: 534.6 MB
+Epoch [19], Step [460/1000], Loss: 0.1047
+  Individual losses: loss_classifier: 0.0157, loss_box_reg: 0.0098, loss_mask: 0.0661, loss_objectness: 0.0006, loss_rpn_box_reg: 0.0124
+  GPU Memory: 531.9 MB
+Epoch [19], Step [470/1000], Loss: 0.1754
+  Individual losses: loss_classifier: 0.0270, loss_box_reg: 0.0392, loss_mask: 0.1055, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0035
+  GPU Memory: 534.2 MB
+Epoch [19], Step [480/1000], Loss: 0.1784
+  Individual losses: loss_classifier: 0.0288, loss_box_reg: 0.0306, loss_mask: 0.1173, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0015
+  GPU Memory: 534.5 MB
+Epoch [19], Step [490/1000], Loss: 0.1770
+  Individual losses: loss_classifier: 0.0560, loss_box_reg: 0.0125, loss_mask: 0.1007, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0075
+  GPU Memory: 534.4 MB
+Epoch [19], Step [500/1000], Loss: 0.0986
+  Individual losses: loss_classifier: 0.0087, loss_box_reg: 0.0237, loss_mask: 0.0535, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0124
+  GPU Memory: 534.5 MB
+Epoch [19], Step [510/1000], Loss: 0.1604
+  Individual losses: loss_classifier: 0.0070, loss_box_reg: 0.0253, loss_mask: 0.1264, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0017
+  GPU Memory: 532.7 MB
+Epoch [19], Step [520/1000], Loss: 0.1014
+  Individual losses: loss_classifier: 0.0075, loss_box_reg: 0.0138, loss_mask: 0.0777, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0023
+  GPU Memory: 533.0 MB
+Epoch [19], Step [530/1000], Loss: 0.2002
+  Individual losses: loss_classifier: 0.0980, loss_box_reg: 0.0187, loss_mask: 0.0695, loss_objectness: 0.0004, loss_rpn_box_reg: 0.0136
+  GPU Memory: 533.3 MB
+Epoch [19], Step [540/1000], Loss: 0.1313
+  Individual losses: loss_classifier: 0.0117, loss_box_reg: 0.0176, loss_mask: 0.1015, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0005
+  GPU Memory: 533.9 MB
+Epoch [19], Step [550/1000], Loss: 0.1660
+  Individual losses: loss_classifier: 0.0266, loss_box_reg: 0.0265, loss_mask: 0.1127, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0003
+  GPU Memory: 532.7 MB
+Epoch [19], Step [560/1000], Loss: 0.1112
+  Individual losses: loss_classifier: 0.0146, loss_box_reg: 0.0061, loss_mask: 0.0824, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0081
+  GPU Memory: 531.9 MB
+Epoch [19], Step [570/1000], Loss: 0.1231
+  Individual losses: loss_classifier: 0.0158, loss_box_reg: 0.0223, loss_mask: 0.0844, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0007
+  GPU Memory: 537.1 MB
+Epoch [19], Step [580/1000], Loss: 0.1887
+  Individual losses: loss_classifier: 0.0247, loss_box_reg: 0.0479, loss_mask: 0.1145, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0015
+  GPU Memory: 532.3 MB
+Epoch [19], Step [590/1000], Loss: 0.1467
+  Individual losses: loss_classifier: 0.0147, loss_box_reg: 0.0278, loss_mask: 0.1001, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0040
+  GPU Memory: 532.3 MB
+Epoch [19], Step [600/1000], Loss: 0.2266
+  Individual losses: loss_classifier: 0.0302, loss_box_reg: 0.0510, loss_mask: 0.1399, loss_objectness: 0.0024, loss_rpn_box_reg: 0.0031
+  GPU Memory: 533.4 MB
+Epoch [19], Step [610/1000], Loss: 0.2584
+  Individual losses: loss_classifier: 0.0317, loss_box_reg: 0.0777, loss_mask: 0.1438, loss_objectness: 0.0014, loss_rpn_box_reg: 0.0038
+  GPU Memory: 534.3 MB
+Epoch [19], Step [620/1000], Loss: 0.3293
+  Individual losses: loss_classifier: 0.0995, loss_box_reg: 0.0724, loss_mask: 0.1520, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0053
+  GPU Memory: 534.7 MB
+Epoch [19], Step [630/1000], Loss: 0.2432
+  Individual losses: loss_classifier: 0.0282, loss_box_reg: 0.0214, loss_mask: 0.1819, loss_objectness: 0.0113, loss_rpn_box_reg: 0.0004
+  GPU Memory: 534.7 MB
+Epoch [19], Step [640/1000], Loss: 0.2024
+  Individual losses: loss_classifier: 0.0299, loss_box_reg: 0.0450, loss_mask: 0.1256, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0017
+  GPU Memory: 535.0 MB
+Epoch [19], Step [650/1000], Loss: 0.1157
+  Individual losses: loss_classifier: 0.0089, loss_box_reg: 0.0134, loss_mask: 0.0890, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0043
+  GPU Memory: 533.4 MB
+Epoch [19], Step [660/1000], Loss: 0.2097
+  Individual losses: loss_classifier: 0.0330, loss_box_reg: 0.0483, loss_mask: 0.1258, loss_objectness: 0.0008, loss_rpn_box_reg: 0.0018
+  GPU Memory: 536.2 MB
+Epoch [19], Step [670/1000], Loss: 0.1021
+  Individual losses: loss_classifier: 0.0131, loss_box_reg: 0.0073, loss_mask: 0.0721, loss_objectness: 0.0003, loss_rpn_box_reg: 0.0094
+  GPU Memory: 534.4 MB
+Epoch [19], Step [680/1000], Loss: 0.1578
+  Individual losses: loss_classifier: 0.0162, loss_box_reg: 0.0204, loss_mask: 0.1177, loss_objectness: 0.0016, loss_rpn_box_reg: 0.0018
+  GPU Memory: 532.1 MB
+Epoch [19], Step [690/1000], Loss: 0.2699
+  Individual losses: loss_classifier: 0.0346, loss_box_reg: 0.0449, loss_mask: 0.1767, loss_objectness: 0.0013, loss_rpn_box_reg: 0.0123
+  GPU Memory: 532.6 MB
+Epoch [19], Step [700/1000], Loss: 0.0899
+  Individual losses: loss_classifier: 0.0098, loss_box_reg: 0.0105, loss_mask: 0.0661, loss_objectness: 0.0015, loss_rpn_box_reg: 0.0019
+  GPU Memory: 534.2 MB
+Epoch [19], Step [710/1000], Loss: 0.1501
+  Individual losses: loss_classifier: 0.0168, loss_box_reg: 0.0390, loss_mask: 0.0930, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0013
+  GPU Memory: 532.1 MB
+Epoch [19], Step [720/1000], Loss: 0.1256
+  Individual losses: loss_classifier: 0.0052, loss_box_reg: 0.0249, loss_mask: 0.0764, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0189
+  GPU Memory: 534.1 MB
+Epoch [19], Step [730/1000], Loss: 0.1623
+  Individual losses: loss_classifier: 0.0239, loss_box_reg: 0.0273, loss_mask: 0.1100, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0010
+  GPU Memory: 532.5 MB
+Epoch [19], Step [740/1000], Loss: 0.1012
+  Individual losses: loss_classifier: 0.0090, loss_box_reg: 0.0216, loss_mask: 0.0701, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0004
+  GPU Memory: 532.3 MB
+Epoch [19], Step [750/1000], Loss: 0.1120
+  Individual losses: loss_classifier: 0.0148, loss_box_reg: 0.0105, loss_mask: 0.0838, loss_objectness: 0.0004, loss_rpn_box_reg: 0.0024
+  GPU Memory: 535.9 MB
+Epoch [19], Step [760/1000], Loss: 0.1447
+  Individual losses: loss_classifier: 0.0118, loss_box_reg: 0.0184, loss_mask: 0.1103, loss_objectness: 0.0004, loss_rpn_box_reg: 0.0037
+  GPU Memory: 536.4 MB
+Epoch [19], Step [770/1000], Loss: 0.1977
+  Individual losses: loss_classifier: 0.0369, loss_box_reg: 0.0393, loss_mask: 0.1181, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0033
+  GPU Memory: 532.7 MB
+Epoch [19], Step [780/1000], Loss: 0.1255
+  Individual losses: loss_classifier: 0.0145, loss_box_reg: 0.0133, loss_mask: 0.0969, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0007
+  GPU Memory: 535.4 MB
+Epoch [19], Step [790/1000], Loss: 0.2441
+  Individual losses: loss_classifier: 0.0406, loss_box_reg: 0.0774, loss_mask: 0.1246, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0014
+  GPU Memory: 532.3 MB
+Epoch [19], Step [800/1000], Loss: 0.1413
+  Individual losses: loss_classifier: 0.0148, loss_box_reg: 0.0307, loss_mask: 0.0919, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0037
+  GPU Memory: 534.3 MB
+Epoch [19], Step [810/1000], Loss: 0.1573
+  Individual losses: loss_classifier: 0.0153, loss_box_reg: 0.0414, loss_mask: 0.0975, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0030
+  GPU Memory: 533.0 MB
+Epoch [19], Step [820/1000], Loss: 0.1316
+  Individual losses: loss_classifier: 0.0133, loss_box_reg: 0.0125, loss_mask: 0.1027, loss_objectness: 0.0013, loss_rpn_box_reg: 0.0019
+  GPU Memory: 533.8 MB
+Epoch [19], Step [830/1000], Loss: 0.1310
+  Individual losses: loss_classifier: 0.0086, loss_box_reg: 0.0260, loss_mask: 0.0961, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0002
+  GPU Memory: 533.9 MB
+Epoch [19], Step [840/1000], Loss: 0.1345
+  Individual losses: loss_classifier: 0.0118, loss_box_reg: 0.0269, loss_mask: 0.0938, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0017
+  GPU Memory: 533.4 MB
+Epoch [19], Step [850/1000], Loss: 0.1104
+  Individual losses: loss_classifier: 0.0146, loss_box_reg: 0.0092, loss_mask: 0.0723, loss_objectness: 0.0010, loss_rpn_box_reg: 0.0133
+  GPU Memory: 535.8 MB
+Epoch [19], Step [860/1000], Loss: 0.2535
+  Individual losses: loss_classifier: 0.0478, loss_box_reg: 0.0495, loss_mask: 0.1546, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0016
+  GPU Memory: 534.3 MB
+Epoch [19], Step [870/1000], Loss: 0.1564
+  Individual losses: loss_classifier: 0.0198, loss_box_reg: 0.0347, loss_mask: 0.1005, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0012
+  GPU Memory: 533.8 MB
+Epoch [19], Step [880/1000], Loss: 0.1594
+  Individual losses: loss_classifier: 0.0153, loss_box_reg: 0.0330, loss_mask: 0.1093, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0015
+  GPU Memory: 533.4 MB
+Epoch [19], Step [890/1000], Loss: 0.4151
+  Individual losses: loss_classifier: 0.0337, loss_box_reg: 0.0491, loss_mask: 0.2897, loss_objectness: 0.0020, loss_rpn_box_reg: 0.0405
+  GPU Memory: 533.1 MB
+Epoch [19], Step [900/1000], Loss: 0.1805
+  Individual losses: loss_classifier: 0.0138, loss_box_reg: 0.0369, loss_mask: 0.1258, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0038
+  GPU Memory: 531.8 MB
+Epoch [19], Step [910/1000], Loss: 0.1916
+  Individual losses: loss_classifier: 0.0258, loss_box_reg: 0.0417, loss_mask: 0.1147, loss_objectness: 0.0004, loss_rpn_box_reg: 0.0090
+  GPU Memory: 535.5 MB
+Epoch [19], Step [920/1000], Loss: 0.3313
+  Individual losses: loss_classifier: 0.0868, loss_box_reg: 0.0702, loss_mask: 0.1724, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0018
+  GPU Memory: 533.9 MB
+Epoch [19], Step [930/1000], Loss: 0.1563
+  Individual losses: loss_classifier: 0.0249, loss_box_reg: 0.0456, loss_mask: 0.0804, loss_objectness: 0.0012, loss_rpn_box_reg: 0.0042
+  GPU Memory: 532.9 MB
+Epoch [19], Step [940/1000], Loss: 0.2486
+  Individual losses: loss_classifier: 0.0284, loss_box_reg: 0.0577, loss_mask: 0.1582, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0042
+  GPU Memory: 533.0 MB
+Epoch [19], Step [950/1000], Loss: 0.4414
+  Individual losses: loss_classifier: 0.1686, loss_box_reg: 0.0995, loss_mask: 0.1713, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0018
+  GPU Memory: 532.7 MB
+Epoch [19], Step [960/1000], Loss: 0.1325
+  Individual losses: loss_classifier: 0.0118, loss_box_reg: 0.0237, loss_mask: 0.0925, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0044
+  GPU Memory: 534.6 MB
+Epoch [19], Step [970/1000], Loss: 0.1324
+  Individual losses: loss_classifier: 0.0081, loss_box_reg: 0.0244, loss_mask: 0.0988, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0011
+  GPU Memory: 536.3 MB
+Epoch [19], Step [980/1000], Loss: 0.1342
+  Individual losses: loss_classifier: 0.0135, loss_box_reg: 0.0215, loss_mask: 0.0894, loss_objectness: 0.0009, loss_rpn_box_reg: 0.0090
+  GPU Memory: 533.3 MB
+Epoch [19], Step [990/1000], Loss: 0.1208
+  Individual losses: loss_classifier: 0.0219, loss_box_reg: 0.0299, loss_mask: 0.0681, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0008
+  GPU Memory: 534.3 MB
+
+Epoch [19/20] Summary:
+  Train Loss: 0.1618
+  Val Loss: 0.1583
+  Learning Rate: 0.000010
+  Time: 1718.5s
+  New best model saved! Val Loss: 0.1583
+--------------------------------------------------
+Epoch [20], Step [0/1000], Loss: 0.1640
+  Individual losses: loss_classifier: 0.0290, loss_box_reg: 0.0298, loss_mask: 0.1035, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0016
+  GPU Memory: 533.6 MB
+Epoch [20], Step [10/1000], Loss: 0.1264
+  Individual losses: loss_classifier: 0.0061, loss_box_reg: 0.0066, loss_mask: 0.1028, loss_objectness: 0.0022, loss_rpn_box_reg: 0.0087
+  GPU Memory: 532.7 MB
+Epoch [20], Step [20/1000], Loss: 0.1647
+  Individual losses: loss_classifier: 0.0247, loss_box_reg: 0.0324, loss_mask: 0.1048, loss_objectness: 0.0006, loss_rpn_box_reg: 0.0022
+  GPU Memory: 533.2 MB
+Epoch [20], Step [30/1000], Loss: 0.1739
+  Individual losses: loss_classifier: 0.0245, loss_box_reg: 0.0262, loss_mask: 0.1228, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0003
+  GPU Memory: 535.8 MB
+Epoch [20], Step [40/1000], Loss: 0.2204
+  Individual losses: loss_classifier: 0.0370, loss_box_reg: 0.0512, loss_mask: 0.1301, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0020
+  GPU Memory: 534.1 MB
+Epoch [20], Step [50/1000], Loss: 0.1508
+  Individual losses: loss_classifier: 0.0120, loss_box_reg: 0.0150, loss_mask: 0.1074, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0161
+  GPU Memory: 533.7 MB
+Epoch [20], Step [60/1000], Loss: 0.1373
+  Individual losses: loss_classifier: 0.0170, loss_box_reg: 0.0375, loss_mask: 0.0805, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0023
+  GPU Memory: 533.1 MB
+Epoch [20], Step [70/1000], Loss: 0.1234
+  Individual losses: loss_classifier: 0.0185, loss_box_reg: 0.0254, loss_mask: 0.0774, loss_objectness: 0.0004, loss_rpn_box_reg: 0.0019
+  GPU Memory: 534.9 MB
+Epoch [20], Step [80/1000], Loss: 0.2316
+  Individual losses: loss_classifier: 0.0223, loss_box_reg: 0.0325, loss_mask: 0.1621, loss_objectness: 0.0010, loss_rpn_box_reg: 0.0136
+  GPU Memory: 533.5 MB
+Epoch [20], Step [90/1000], Loss: 0.2009
+  Individual losses: loss_classifier: 0.0265, loss_box_reg: 0.0408, loss_mask: 0.1228, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0106
+  GPU Memory: 534.4 MB
+Epoch [20], Step [100/1000], Loss: 0.2331
+  Individual losses: loss_classifier: 0.0357, loss_box_reg: 0.0266, loss_mask: 0.1516, loss_objectness: 0.0105, loss_rpn_box_reg: 0.0086
+  GPU Memory: 533.4 MB
+Epoch [20], Step [110/1000], Loss: 0.1758
+  Individual losses: loss_classifier: 0.0146, loss_box_reg: 0.0306, loss_mask: 0.1195, loss_objectness: 0.0087, loss_rpn_box_reg: 0.0024
+  GPU Memory: 533.8 MB
+Epoch [20], Step [120/1000], Loss: 0.1626
+  Individual losses: loss_classifier: 0.0267, loss_box_reg: 0.0328, loss_mask: 0.1024, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0006
+  GPU Memory: 535.2 MB
+Epoch [20], Step [130/1000], Loss: 0.1407
+  Individual losses: loss_classifier: 0.0067, loss_box_reg: 0.0239, loss_mask: 0.1082, loss_objectness: 0.0003, loss_rpn_box_reg: 0.0015
+  GPU Memory: 532.7 MB
+Epoch [20], Step [140/1000], Loss: 0.1641
+  Individual losses: loss_classifier: 0.0199, loss_box_reg: 0.0356, loss_mask: 0.0946, loss_objectness: 0.0061, loss_rpn_box_reg: 0.0080
+  GPU Memory: 533.1 MB
+Epoch [20], Step [150/1000], Loss: 0.1673
+  Individual losses: loss_classifier: 0.0204, loss_box_reg: 0.0405, loss_mask: 0.1057, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0005
+  GPU Memory: 534.1 MB
+Epoch [20], Step [160/1000], Loss: 0.1242
+  Individual losses: loss_classifier: 0.0177, loss_box_reg: 0.0148, loss_mask: 0.0906, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0010
+  GPU Memory: 534.9 MB
+Epoch [20], Step [170/1000], Loss: 0.1328
+  Individual losses: loss_classifier: 0.0300, loss_box_reg: 0.0184, loss_mask: 0.0682, loss_objectness: 0.0144, loss_rpn_box_reg: 0.0018
+  GPU Memory: 534.4 MB
+Epoch [20], Step [180/1000], Loss: 0.1466
+  Individual losses: loss_classifier: 0.0186, loss_box_reg: 0.0349, loss_mask: 0.0896, loss_objectness: 0.0020, loss_rpn_box_reg: 0.0016
+  GPU Memory: 536.1 MB
+Epoch [20], Step [190/1000], Loss: 0.1458
+  Individual losses: loss_classifier: 0.0097, loss_box_reg: 0.0234, loss_mask: 0.1115, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0013
+  GPU Memory: 533.7 MB
+Epoch [20], Step [200/1000], Loss: 0.1222
+  Individual losses: loss_classifier: 0.0125, loss_box_reg: 0.0120, loss_mask: 0.0971, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0007
+  GPU Memory: 534.7 MB
+Epoch [20], Step [210/1000], Loss: 0.1982
+  Individual losses: loss_classifier: 0.0323, loss_box_reg: 0.0383, loss_mask: 0.1084, loss_objectness: 0.0029, loss_rpn_box_reg: 0.0163
+  GPU Memory: 532.8 MB
+Epoch [20], Step [220/1000], Loss: 0.1814
+  Individual losses: loss_classifier: 0.0773, loss_box_reg: 0.0195, loss_mask: 0.0817, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0028
+  GPU Memory: 533.8 MB
+Epoch [20], Step [230/1000], Loss: 0.1054
+  Individual losses: loss_classifier: 0.0187, loss_box_reg: 0.0070, loss_mask: 0.0749, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0046
+  GPU Memory: 532.8 MB
+Epoch [20], Step [240/1000], Loss: 0.1994
+  Individual losses: loss_classifier: 0.0342, loss_box_reg: 0.0490, loss_mask: 0.1148, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0014
+  GPU Memory: 533.5 MB
+Epoch [20], Step [250/1000], Loss: 0.2095
+  Individual losses: loss_classifier: 0.0392, loss_box_reg: 0.0268, loss_mask: 0.1418, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0016
+  GPU Memory: 532.9 MB
+Epoch [20], Step [260/1000], Loss: 0.1093
+  Individual losses: loss_classifier: 0.0163, loss_box_reg: 0.0136, loss_mask: 0.0781, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0012
+  GPU Memory: 533.8 MB
+Epoch [20], Step [270/1000], Loss: 0.2015
+  Individual losses: loss_classifier: 0.0304, loss_box_reg: 0.0461, loss_mask: 0.1170, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0079
+  GPU Memory: 532.9 MB
+Epoch [20], Step [280/1000], Loss: 0.1787
+  Individual losses: loss_classifier: 0.0330, loss_box_reg: 0.0203, loss_mask: 0.1094, loss_objectness: 0.0004, loss_rpn_box_reg: 0.0155
+  GPU Memory: 532.8 MB
+Epoch [20], Step [290/1000], Loss: 0.2121
+  Individual losses: loss_classifier: 0.0401, loss_box_reg: 0.0303, loss_mask: 0.1389, loss_objectness: 0.0013, loss_rpn_box_reg: 0.0014
+  GPU Memory: 532.9 MB
+Epoch [20], Step [300/1000], Loss: 0.2516
+  Individual losses: loss_classifier: 0.0425, loss_box_reg: 0.0455, loss_mask: 0.1518, loss_objectness: 0.0023, loss_rpn_box_reg: 0.0095
+  GPU Memory: 534.5 MB
+Epoch [20], Step [310/1000], Loss: 0.2022
+  Individual losses: loss_classifier: 0.0283, loss_box_reg: 0.0402, loss_mask: 0.1211, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0125
+  GPU Memory: 533.3 MB
+Epoch [20], Step [320/1000], Loss: 0.1710
+  Individual losses: loss_classifier: 0.0263, loss_box_reg: 0.0370, loss_mask: 0.1040, loss_objectness: 0.0005, loss_rpn_box_reg: 0.0031
+  GPU Memory: 533.1 MB
+Epoch [20], Step [330/1000], Loss: 0.1518
+  Individual losses: loss_classifier: 0.0360, loss_box_reg: 0.0183, loss_mask: 0.0968, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0007
+  GPU Memory: 534.8 MB
+Epoch [20], Step [340/1000], Loss: 0.1635
+  Individual losses: loss_classifier: 0.0200, loss_box_reg: 0.0356, loss_mask: 0.1058, loss_objectness: 0.0007, loss_rpn_box_reg: 0.0014
+  GPU Memory: 534.5 MB
+Epoch [20], Step [350/1000], Loss: 0.1946
+  Individual losses: loss_classifier: 0.0543, loss_box_reg: 0.0380, loss_mask: 0.0969, loss_objectness: 0.0013, loss_rpn_box_reg: 0.0042
+  GPU Memory: 534.6 MB
+Epoch [20], Step [360/1000], Loss: 0.1978
+  Individual losses: loss_classifier: 0.0344, loss_box_reg: 0.0470, loss_mask: 0.1131, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0032
+  GPU Memory: 533.7 MB
+Epoch [20], Step [370/1000], Loss: 0.1881
+  Individual losses: loss_classifier: 0.0192, loss_box_reg: 0.0401, loss_mask: 0.1207, loss_objectness: 0.0018, loss_rpn_box_reg: 0.0063
+  GPU Memory: 535.2 MB
+Epoch [20], Step [380/1000], Loss: 0.1061
+  Individual losses: loss_classifier: 0.0229, loss_box_reg: 0.0147, loss_mask: 0.0677, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0006
+  GPU Memory: 533.4 MB
+Epoch [20], Step [390/1000], Loss: 0.2210
+  Individual losses: loss_classifier: 0.0251, loss_box_reg: 0.0507, loss_mask: 0.1411, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0040
+  GPU Memory: 533.7 MB
+Epoch [20], Step [400/1000], Loss: 0.1485
+  Individual losses: loss_classifier: 0.0198, loss_box_reg: 0.0357, loss_mask: 0.0911, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0019
+  GPU Memory: 533.3 MB
+Epoch [20], Step [410/1000], Loss: 0.2164
+  Individual losses: loss_classifier: 0.0357, loss_box_reg: 0.0417, loss_mask: 0.1286, loss_objectness: 0.0006, loss_rpn_box_reg: 0.0098
+  GPU Memory: 536.3 MB
+Epoch [20], Step [420/1000], Loss: 0.1373
+  Individual losses: loss_classifier: 0.0124, loss_box_reg: 0.0298, loss_mask: 0.0941, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0011
+  GPU Memory: 534.0 MB
+Epoch [20], Step [430/1000], Loss: 0.0993
+  Individual losses: loss_classifier: 0.0081, loss_box_reg: 0.0177, loss_mask: 0.0688, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0047
+  GPU Memory: 533.1 MB
+Epoch [20], Step [440/1000], Loss: 0.2019
+  Individual losses: loss_classifier: 0.0368, loss_box_reg: 0.0333, loss_mask: 0.1203, loss_objectness: 0.0032, loss_rpn_box_reg: 0.0083
+  GPU Memory: 534.5 MB
+Epoch [20], Step [450/1000], Loss: 0.1526
+  Individual losses: loss_classifier: 0.0119, loss_box_reg: 0.0247, loss_mask: 0.1125, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0035
+  GPU Memory: 532.5 MB
+Epoch [20], Step [460/1000], Loss: 0.2997
+  Individual losses: loss_classifier: 0.0382, loss_box_reg: 0.0823, loss_mask: 0.1583, loss_objectness: 0.0007, loss_rpn_box_reg: 0.0201
+  GPU Memory: 534.9 MB
+Epoch [20], Step [470/1000], Loss: 0.1065
+  Individual losses: loss_classifier: 0.0158, loss_box_reg: 0.0087, loss_mask: 0.0757, loss_objectness: 0.0013, loss_rpn_box_reg: 0.0051
+  GPU Memory: 532.8 MB
+Epoch [20], Step [480/1000], Loss: 0.2114
+  Individual losses: loss_classifier: 0.0174, loss_box_reg: 0.0362, loss_mask: 0.1563, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0015
+  GPU Memory: 532.7 MB
+Epoch [20], Step [490/1000], Loss: 0.1228
+  Individual losses: loss_classifier: 0.0098, loss_box_reg: 0.0215, loss_mask: 0.0861, loss_objectness: 0.0045, loss_rpn_box_reg: 0.0008
+  GPU Memory: 532.9 MB
+Epoch [20], Step [500/1000], Loss: 0.1050
+  Individual losses: loss_classifier: 0.0101, loss_box_reg: 0.0179, loss_mask: 0.0762, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0008
+  GPU Memory: 534.6 MB
+Epoch [20], Step [510/1000], Loss: 0.2610
+  Individual losses: loss_classifier: 0.0535, loss_box_reg: 0.0706, loss_mask: 0.1334, loss_objectness: 0.0006, loss_rpn_box_reg: 0.0030
+  GPU Memory: 535.6 MB
+Epoch [20], Step [520/1000], Loss: 0.1984
+  Individual losses: loss_classifier: 0.0296, loss_box_reg: 0.0432, loss_mask: 0.1236, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0018
+  GPU Memory: 534.7 MB
+Epoch [20], Step [530/1000], Loss: 0.1644
+  Individual losses: loss_classifier: 0.0250, loss_box_reg: 0.0245, loss_mask: 0.1139, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0011
+  GPU Memory: 536.0 MB
+Epoch [20], Step [540/1000], Loss: 0.1401
+  Individual losses: loss_classifier: 0.0097, loss_box_reg: 0.0096, loss_mask: 0.0912, loss_objectness: 0.0003, loss_rpn_box_reg: 0.0292
+  GPU Memory: 533.9 MB
+Epoch [20], Step [550/1000], Loss: 0.2536
+  Individual losses: loss_classifier: 0.0266, loss_box_reg: 0.0511, loss_mask: 0.1747, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0012
+  GPU Memory: 533.9 MB
+Epoch [20], Step [560/1000], Loss: 0.0960
+  Individual losses: loss_classifier: 0.0103, loss_box_reg: 0.0050, loss_mask: 0.0542, loss_objectness: 0.0124, loss_rpn_box_reg: 0.0142
+  GPU Memory: 532.2 MB
+Epoch [20], Step [570/1000], Loss: 0.2319
+  Individual losses: loss_classifier: 0.0270, loss_box_reg: 0.0511, loss_mask: 0.1503, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0033
+  GPU Memory: 534.3 MB
+Epoch [20], Step [580/1000], Loss: 0.1715
+  Individual losses: loss_classifier: 0.0220, loss_box_reg: 0.0413, loss_mask: 0.1033, loss_objectness: 0.0007, loss_rpn_box_reg: 0.0042
+  GPU Memory: 534.1 MB
+Epoch [20], Step [590/1000], Loss: 0.1856
+  Individual losses: loss_classifier: 0.0267, loss_box_reg: 0.0326, loss_mask: 0.1253, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0009
+  GPU Memory: 532.7 MB
+Epoch [20], Step [600/1000], Loss: 0.2283
+  Individual losses: loss_classifier: 0.0295, loss_box_reg: 0.0513, loss_mask: 0.1437, loss_objectness: 0.0009, loss_rpn_box_reg: 0.0028
+  GPU Memory: 533.3 MB
+Epoch [20], Step [610/1000], Loss: 0.1350
+  Individual losses: loss_classifier: 0.0218, loss_box_reg: 0.0090, loss_mask: 0.0916, loss_objectness: 0.0006, loss_rpn_box_reg: 0.0119
+  GPU Memory: 532.2 MB
+Epoch [20], Step [620/1000], Loss: 0.0953
+  Individual losses: loss_classifier: 0.0051, loss_box_reg: 0.0118, loss_mask: 0.0711, loss_objectness: 0.0009, loss_rpn_box_reg: 0.0065
+  GPU Memory: 533.0 MB
+Epoch [20], Step [630/1000], Loss: 0.1704
+  Individual losses: loss_classifier: 0.0297, loss_box_reg: 0.0304, loss_mask: 0.1090, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0011
+  GPU Memory: 535.5 MB
+Epoch [20], Step [640/1000], Loss: 0.1705
+  Individual losses: loss_classifier: 0.0252, loss_box_reg: 0.0253, loss_mask: 0.1192, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0007
+  GPU Memory: 533.3 MB
+Epoch [20], Step [650/1000], Loss: 0.1418
+  Individual losses: loss_classifier: 0.0478, loss_box_reg: 0.0182, loss_mask: 0.0744, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0015
+  GPU Memory: 532.9 MB
+Epoch [20], Step [660/1000], Loss: 0.1683
+  Individual losses: loss_classifier: 0.0156, loss_box_reg: 0.0291, loss_mask: 0.1232, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0004
+  GPU Memory: 534.5 MB
+Epoch [20], Step [670/1000], Loss: 0.0855
+  Individual losses: loss_classifier: 0.0088, loss_box_reg: 0.0176, loss_mask: 0.0574, loss_objectness: 0.0007, loss_rpn_box_reg: 0.0010
+  GPU Memory: 535.0 MB
+Epoch [20], Step [680/1000], Loss: 0.1312
+  Individual losses: loss_classifier: 0.0148, loss_box_reg: 0.0292, loss_mask: 0.0764, loss_objectness: 0.0059, loss_rpn_box_reg: 0.0049
+  GPU Memory: 534.8 MB
+Epoch [20], Step [690/1000], Loss: 0.1584
+  Individual losses: loss_classifier: 0.0271, loss_box_reg: 0.0269, loss_mask: 0.1028, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0015
+  GPU Memory: 536.7 MB
+Epoch [20], Step [700/1000], Loss: 0.1377
+  Individual losses: loss_classifier: 0.0235, loss_box_reg: 0.0139, loss_mask: 0.0990, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0012
+  GPU Memory: 534.7 MB
+Epoch [20], Step [710/1000], Loss: 0.1927
+  Individual losses: loss_classifier: 0.0262, loss_box_reg: 0.0324, loss_mask: 0.1328, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0012
+  GPU Memory: 535.8 MB
+Epoch [20], Step [720/1000], Loss: 0.1231
+  Individual losses: loss_classifier: 0.0150, loss_box_reg: 0.0098, loss_mask: 0.0917, loss_objectness: 0.0011, loss_rpn_box_reg: 0.0055
+  GPU Memory: 533.0 MB
+Epoch [20], Step [730/1000], Loss: 0.1906
+  Individual losses: loss_classifier: 0.0250, loss_box_reg: 0.0309, loss_mask: 0.1304, loss_objectness: 0.0010, loss_rpn_box_reg: 0.0033
+  GPU Memory: 534.6 MB
+Epoch [20], Step [740/1000], Loss: 0.2326
+  Individual losses: loss_classifier: 0.0269, loss_box_reg: 0.0668, loss_mask: 0.1370, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0019
+  GPU Memory: 532.2 MB
+Epoch [20], Step [750/1000], Loss: 0.1177
+  Individual losses: loss_classifier: 0.0130, loss_box_reg: 0.0263, loss_mask: 0.0778, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0003
+  GPU Memory: 534.3 MB
+Epoch [20], Step [760/1000], Loss: 0.1298
+  Individual losses: loss_classifier: 0.0215, loss_box_reg: 0.0188, loss_mask: 0.0877, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0015
+  GPU Memory: 532.9 MB
+Epoch [20], Step [770/1000], Loss: 0.1425
+  Individual losses: loss_classifier: 0.0134, loss_box_reg: 0.0159, loss_mask: 0.1122, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0007
+  GPU Memory: 535.2 MB
+Epoch [20], Step [780/1000], Loss: 0.0984
+  Individual losses: loss_classifier: 0.0100, loss_box_reg: 0.0168, loss_mask: 0.0656, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0057
+  GPU Memory: 534.4 MB
+Epoch [20], Step [790/1000], Loss: 0.1931
+  Individual losses: loss_classifier: 0.0282, loss_box_reg: 0.0425, loss_mask: 0.0999, loss_objectness: 0.0008, loss_rpn_box_reg: 0.0217
+  GPU Memory: 535.0 MB
+Epoch [20], Step [800/1000], Loss: 0.1782
+  Individual losses: loss_classifier: 0.0248, loss_box_reg: 0.0332, loss_mask: 0.1192, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0009
+  GPU Memory: 534.1 MB
+Epoch [20], Step [810/1000], Loss: 0.1693
+  Individual losses: loss_classifier: 0.0198, loss_box_reg: 0.0394, loss_mask: 0.1032, loss_objectness: 0.0042, loss_rpn_box_reg: 0.0028
+  GPU Memory: 533.7 MB
+Epoch [20], Step [820/1000], Loss: 0.1727
+  Individual losses: loss_classifier: 0.0257, loss_box_reg: 0.0390, loss_mask: 0.1038, loss_objectness: 0.0007, loss_rpn_box_reg: 0.0035
+  GPU Memory: 534.0 MB
+Epoch [20], Step [830/1000], Loss: 0.1353
+  Individual losses: loss_classifier: 0.0088, loss_box_reg: 0.0275, loss_mask: 0.0982, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0007
+  GPU Memory: 532.4 MB
+Epoch [20], Step [840/1000], Loss: 0.1213
+  Individual losses: loss_classifier: 0.0237, loss_box_reg: 0.0273, loss_mask: 0.0701, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0002
+  GPU Memory: 532.5 MB
+Epoch [20], Step [850/1000], Loss: 0.1001
+  Individual losses: loss_classifier: 0.0095, loss_box_reg: 0.0202, loss_mask: 0.0702, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0002
+  GPU Memory: 533.0 MB
+Epoch [20], Step [860/1000], Loss: 0.1271
+  Individual losses: loss_classifier: 0.0129, loss_box_reg: 0.0282, loss_mask: 0.0812, loss_objectness: 0.0028, loss_rpn_box_reg: 0.0020
+  GPU Memory: 533.9 MB
+Epoch [20], Step [870/1000], Loss: 0.2045
+  Individual losses: loss_classifier: 0.0433, loss_box_reg: 0.0394, loss_mask: 0.1182, loss_objectness: 0.0003, loss_rpn_box_reg: 0.0034
+  GPU Memory: 534.9 MB
+Epoch [20], Step [880/1000], Loss: 0.2841
+  Individual losses: loss_classifier: 0.0641, loss_box_reg: 0.0654, loss_mask: 0.1499, loss_objectness: 0.0011, loss_rpn_box_reg: 0.0035
+  GPU Memory: 533.7 MB
+Epoch [20], Step [890/1000], Loss: 0.1146
+  Individual losses: loss_classifier: 0.0067, loss_box_reg: 0.0101, loss_mask: 0.0969, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0009
+  GPU Memory: 532.6 MB
+Epoch [20], Step [900/1000], Loss: 0.2513
+  Individual losses: loss_classifier: 0.0726, loss_box_reg: 0.0583, loss_mask: 0.1152, loss_objectness: 0.0003, loss_rpn_box_reg: 0.0050
+  GPU Memory: 535.1 MB
+Epoch [20], Step [910/1000], Loss: 0.0872
+  Individual losses: loss_classifier: 0.0086, loss_box_reg: 0.0123, loss_mask: 0.0577, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0085
+  GPU Memory: 535.0 MB
+Epoch [20], Step [920/1000], Loss: 0.1273
+  Individual losses: loss_classifier: 0.0192, loss_box_reg: 0.0307, loss_mask: 0.0761, loss_objectness: 0.0001, loss_rpn_box_reg: 0.0012
+  GPU Memory: 534.5 MB
+Epoch [20], Step [930/1000], Loss: 0.2519
+  Individual losses: loss_classifier: 0.0401, loss_box_reg: 0.0388, loss_mask: 0.1718, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0011
+  GPU Memory: 533.9 MB
+Epoch [20], Step [940/1000], Loss: 0.1631
+  Individual losses: loss_classifier: 0.0249, loss_box_reg: 0.0306, loss_mask: 0.1069, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0007
+  GPU Memory: 535.1 MB
+Epoch [20], Step [950/1000], Loss: 0.1958
+  Individual losses: loss_classifier: 0.0349, loss_box_reg: 0.0354, loss_mask: 0.1192, loss_objectness: 0.0018, loss_rpn_box_reg: 0.0045
+  GPU Memory: 533.8 MB
+Epoch [20], Step [960/1000], Loss: 0.1137
+  Individual losses: loss_classifier: 0.0106, loss_box_reg: 0.0167, loss_mask: 0.0817, loss_objectness: 0.0003, loss_rpn_box_reg: 0.0043
+  GPU Memory: 532.8 MB
+Epoch [20], Step [970/1000], Loss: 0.0701
+  Individual losses: loss_classifier: 0.0061, loss_box_reg: 0.0054, loss_mask: 0.0529, loss_objectness: 0.0008, loss_rpn_box_reg: 0.0050
+  GPU Memory: 533.2 MB
+Epoch [20], Step [980/1000], Loss: 0.2207
+  Individual losses: loss_classifier: 0.0580, loss_box_reg: 0.0320, loss_mask: 0.1176, loss_objectness: 0.0002, loss_rpn_box_reg: 0.0128
+  GPU Memory: 533.1 MB
+Epoch [20], Step [990/1000], Loss: 0.1425
+  Individual losses: loss_classifier: 0.0164, loss_box_reg: 0.0261, loss_mask: 0.0983, loss_objectness: 0.0000, loss_rpn_box_reg: 0.0017
+  GPU Memory: 535.8 MB
+
+Epoch [20/20] Summary:
+  Train Loss: 0.1614
+  Val Loss: 0.1579
+  Learning Rate: 0.000010
+  Time: 1709.5s
+  New best model saved! Val Loss: 0.1579
+  Checkpoint saved: epoch_20.pth
+--------------------------------------------------
+Training completed!
+Best validation loss: 0.1579
+Models saved in: checkpoints

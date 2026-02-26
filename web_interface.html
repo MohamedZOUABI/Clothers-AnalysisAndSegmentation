@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DeepFashion2 - Clothing Detection</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+        
+        h1 {
+            color: #333;
+            text-align: center;
+            margin-bottom: 10px;
+            font-size: 2.5em;
+        }
+        
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 40px;
+            font-size: 1.1em;
+        }
+        
+        .upload-area {
+            border: 3px dashed #667eea;
+            border-radius: 15px;
+            padding: 60px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s;
+            margin-bottom: 30px;
+        }
+        
+        .upload-area:hover {
+            background: #f8f9ff;
+            border-color: #764ba2;
+        }
+        
+        .upload-area.dragging {
+            background: #e8edff;
+            border-color: #5568d3;
+        }
+        
+        .upload-icon {
+            font-size: 4em;
+            margin-bottom: 20px;
+        }
+        
+        input[type="file"] {
+            display: none;
+        }
+        
+        .controls {
+            display: flex;
+            gap: 20px;
+            margin-bottom: 30px;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .control-group {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+        
+        label {
+            font-weight: 600;
+            color: #333;
+            font-size: 0.9em;
+        }
+        
+        input[type="range"] {
+            width: 200px;
+        }
+        
+        button {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            padding: 15px 40px;
+            border-radius: 10px;
+            font-size: 1.1em;
+            cursor: pointer;
+            transition: transform 0.2s;
+            font-weight: 600;
+        }
+        
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+        
+        button:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+            transform: none;
+        }
+        
+        .results {
+            display: none;
+            margin-top: 30px;
+        }
+        
+        .results.show {
+            display: block;
+        }
+        
+        .image-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .image-box {
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            padding: 15px;
+            background: #f9f9f9;
+        }
+        
+        .image-box h3 {
+            margin-bottom: 10px;
+            color: #333;
+        }
+        
+        .image-box img {
+            width: 100%;
+            border-radius: 5px;
+        }
+        
+        .detections {
+            background: #f0f4ff;
+            border-radius: 10px;
+            padding: 20px;
+        }
+        
+        .detections h3 {
+            color: #333;
+            margin-bottom: 15px;
+        }
+        
+        .detection-item {
+            background: white;
+            padding: 15px;
+            margin-bottom: 10px;
+            border-radius: 8px;
+            border-left: 4px solid #667eea;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .detection-name {
+            font-weight: 600;
+            color: #333;
+            font-size: 1.1em;
+        }
+        
+        .detection-confidence {
+            background: #667eea;
+            color: white;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-weight: 600;
+        }
+        
+        .loading {
+            display: none;
+            text-align: center;
+            padding: 40px;
+        }
+        
+        .loading.show {
+            display: block;
+        }
+        
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #667eea;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        .error {
+            background: #fee;
+            border: 2px solid #fcc;
+            color: #c00;
+            padding: 15px;
+            border-radius: 10px;
+            margin-top: 20px;
+            display: none;
+        }
+        
+        .error.show {
+            display: block;
+        }
+        
+        @media (max-width: 768px) {
+            .image-container {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>👔 DeepFashion2 Detection</h1>
+        <p class="subtitle">Upload an image to detect and classify clothing items</p>
+        
+        <div class="upload-area" id="uploadArea">
+            <div class="upload-icon">📁</div>
+            <h3>Click to upload or drag and drop</h3>
+            <p>Supports JPG, PNG images</p>
+            <input type="file" id="fileInput" accept="image/*">
+        </div>
+        
+        <div class="controls">
+            <div class="control-group">
+                <label for="confidenceSlider">Confidence Threshold: <span id="confidenceValue">0.5</span></label>
+                <input type="range" id="confidenceSlider" min="0" max="1" step="0.05" value="0.5">
+            </div>
+            <button id="detectBtn" disabled>Detect Clothing</button>
+        </div>
+        
+        <div class="loading" id="loading">
+            <div class="spinner"></div>
+            <p>Analyzing image...</p>
+        </div>
+        
+        <div class="error" id="error"></div>
+        
+        <div class="results" id="results">
+            <div class="image-container">
+                <div class="image-box">
+                    <h3>Original Image</h3>
+                    <img id="originalImage" src="" alt="Original">
+                </div>
+                <div class="image-box">
+                    <h3>Detection Results</h3>
+                    <img id="resultImage" src="" alt="Results">
+                </div>
+            </div>
+            
+            <div class="detections">
+                <h3>Detected Items (<span id="itemCount">0</span>)</h3>
+                <div id="detectionsList"></div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        const API_URL = 'http://localhost:5000';  // Update this to your API server URL
+        
+        const uploadArea = document.getElementById('uploadArea');
+        const fileInput = document.getElementById('fileInput');
+        const detectBtn = document.getElementById('detectBtn');
+        const confidenceSlider = document.getElementById('confidenceSlider');
+        const confidenceValue = document.getElementById('confidenceValue');
+        const loading = document.getElementById('loading');
+        const error = document.getElementById('error');
+        const results = document.getElementById('results');
+        const originalImage = document.getElementById('originalImage');
+        const resultImage = document.getElementById('resultImage');
+        const detectionsList = document.getElementById('detectionsList');
+        const itemCount = document.getElementById('itemCount');
+        
+        let selectedFile = null;
+        
+        // Upload area click
+        uploadArea.addEventListener('click', () => fileInput.click());
+        
+        // File selection
+        fileInput.addEventListener('change', (e) => {
+            if (e.target.files.length > 0) {
+                selectedFile = e.target.files[0];
+                displaySelectedFile();
+            }
+        });
+        
+        // Drag and drop
+        uploadArea.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            uploadArea.classList.add('dragging');
+        });
+        
+        uploadArea.addEventListener('dragleave', () => {
+            uploadArea.classList.remove('dragging');
+        });
+        
+        uploadArea.addEventListener('drop', (e) => {
+            e.preventDefault();
+            uploadArea.classList.remove('dragging');
+            
+            if (e.dataTransfer.files.length > 0) {
+                selectedFile = e.dataTransfer.files[0];
+                fileInput.files = e.dataTransfer.files;
+                displaySelectedFile();
+            }
+        });
+        
+        // Confidence slider
+        confidenceSlider.addEventListener('input', (e) => {
+            confidenceValue.textContent = e.target.value;
+        });
+        
+        // Display selected file
+        function displaySelectedFile() {
+            const reader = new FileReader();
+            reader.onload = (e) => {
+                originalImage.src = e.target.result;
+                uploadArea.innerHTML = `
+                    <div class="upload-icon">✅</div>
+                    <h3>${selectedFile.name}</h3>
+                    <p>Click to change image</p>
+                `;
+                detectBtn.disabled = false;
+            };
+            reader.readAsDataURL(selectedFile);
+        }
+        
+        // Detect button
+        detectBtn.addEventListener('click', async () => {
+            if (!selectedFile) return;
+            
+            // Hide previous results and errors
+            results.classList.remove('show');
+            error.classList.remove('show');
+            loading.classList.add('show');
+            detectBtn.disabled = true;
+            
+            try {
+                // Prepare form data
+                const formData = new FormData();
+                formData.append('image', selectedFile);
+                formData.append('confidence', confidenceSlider.value);
+                
+                // Call API for visualization
+                const vizResponse = await fetch(`${API_URL}/detect_visualize`, {
+                    method: 'POST',
+                    body: formData
+                });
+                
+                if (!vizResponse.ok) {
+                    throw new Error('Visualization request failed');
+                }
+                
+                const vizBlob = await vizResponse.blob();
+                resultImage.src = URL.createObjectURL(vizBlob);
+                
+                // Call API for JSON data
+                const formData2 = new FormData();
+                formData2.append('image', selectedFile);
+                formData2.append('confidence', confidenceSlider.value);
+                
+                const dataResponse = await fetch(`${API_URL}/detect`, {
+                    method: 'POST',
+                    body: formData2
+                });
+                
+                if (!dataResponse.ok) {
+                    throw new Error('Detection request failed');
+                }
+                
+                const data = await dataResponse.json();
+                
+                if (data.success) {
+                    displayResults(data.items);
+                } else {
+                    throw new Error(data.error || 'Detection failed');
+                }
+                
+            } catch (err) {
+                showError(err.message);
+            } finally {
+                loading.classList.remove('show');
+                detectBtn.disabled = false;
+            }
+        });
+        
+        // Display results
+        function displayResults(items) {
+            itemCount.textContent = items.length;
+            detectionsList.innerHTML = '';
+            
+            if (items.length === 0) {
+                detectionsList.innerHTML = '<p style="text-align: center; color: #666;">No clothing items detected</p>';
+            } else {
+                items.forEach((item, index) => {
+                    const itemDiv = document.createElement('div');
+                    itemDiv.className = 'detection-item';
+                    
+                    const name = item.category.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+                    const confidence = (item.confidence * 100).toFixed(1);
+                    
+                    itemDiv.innerHTML = `
+                        <div>
+                            <div class="detection-name">${index + 1}. ${name}</div>
+                            <div style="font-size: 0.9em; color: #666; margin-top: 5px;">
+                                Position: (${item.bounding_box.x1}, ${item.bounding_box.y1}) to (${item.bounding_box.x2}, ${item.bounding_box.y2})
+                            </div>
+                        </div>
+                        <div class="detection-confidence">${confidence}%</div>
+                    `;
+                    
+                    detectionsList.appendChild(itemDiv);
+                });
+            }
+            
+            results.classList.add('show');
+        }
+        
+        // Show error
+        function showError(message) {
+            error.textContent = `Error: ${message}`;
+            error.classList.add('show');
+            setTimeout(() => {
+                error.classList.remove('show');
+            }, 5000);
+        }
+        
+        // Check API health on load
+        async function checkAPIHealth() {
+            try {
+                const response = await fetch(`${API_URL}/health`);
+                if (!response.ok) {
+                    showError('API server is not responding. Make sure the server is running.');
+                }
+            } catch (err) {
+                showError('Cannot connect to API server. Please start the server first.');
+            }
+        }
+        
+        checkAPIHealth();
+    </script>
+</body>
+</html>
