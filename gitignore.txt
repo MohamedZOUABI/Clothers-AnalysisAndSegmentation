@@ -1,0 +1,127 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Model Checkpoints (large files)
+checkpoints/*.pth
+*.pth
+*.pt
+
+# Keep only the directory structure
+!checkpoints/.gitkeep
+
+# Training outputs
+checkpoints/training_history.json
+
+# Results and outputs
+results/
+extracted_items/
+my_results/
+output/
+batch_output/
+
+# Temporary files
+temp/
+tmp/
+temp_uploads/
+temp_results/
+*.tmp
+
+# Dataset (too large for git)
+DATA/train/image/*.jpg
+DATA/train/annos/*.json
+DATA/test/image/*.jpg
+DATA/json_for_validation/*.json
+DATA/json_for_test/*.json
+
+# Keep directory structure
+!DATA/.gitkeep
+!DATA/train/.gitkeep
+!DATA/train/image/.gitkeep
+!DATA/train/annos/.gitkeep
+!DATA/test/.gitkeep
+!DATA/test/image/.gitkeep
+
+# Logs
+*.log
+logs/
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Images (except examples)
+*.jpg
+*.jpeg
+*.png
+*.gif
+!example_*.jpg
+!example_*.png
+
+# Videos
+*.mp4
+*.avi
+*.mov
+
+# Compressed files
+*.zip
+*.tar.gz
+*.rar
+
+# Cache
+.cache/
+*.cache
+
+# pytest
+.pytest_cache/
+
+# Coverage
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+
+# Environment variables
+.env
+.env.local
+
+# Database
+*.db
+*.sqlite
+*.sqlite3

@@ -1,0 +1,50 @@
+# Got it 🚀 Since you want a full setup for ML + AI, here’s a solid requirements.txt that covers:
+#     - Data science basics (NumPy, Pandas, Matplotlib, Seaborn, SciPy)
+#     - Machine Learning (Scikit-learn, XGBoost, LightGBM, CatBoost)
+#     - Deep Learning (TensorFlow, Keras, PyTorch, Torchvision, Torchaudio)
+#     - NLP & Transformers (Hugging Face Transformers, Datasets, Tokenizers, SentenceTransformers, SpaCy, NLTK)
+#     - Computer Vision (OpenCV, Pillow, scikit-image, ultralytics for YOLO)
+#     - Utilities (Jupyter, tqdm, requests)
+
+
+
+
+# Core scientific libraries
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+# Deep Learning
+tensorflow
+keras
+torch
+torchvision
+torchaudio
+
+# NLP & Transformers
+transformers
+datasets
+tokenizers
+sentence-transformers
+spacy
+nltk
+
+# Computer Vision
+opencv-python
+Pillow
+scikit-image
+ultralytics  # YOLO models
+
+# Jupyter & utilities
+jupyter
+notebook
+tqdm
+requests
